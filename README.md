@@ -8,7 +8,7 @@
 - 🌈 Love Coding! Love Creation! 😎
 - 🤔 I'm thinking about how to do something fun. 😁
 - 💬 Talk me about your idea. ✨ 
-- 📫 How to reach me. [blog.suconghou.cn](https://takl.ink/bugbounted)
+- 📫 How to reach me. [takl.ink/bugbounted](https://takl.ink/bugbounted)
 
 ## 🔧 Technologies & Tools
 
