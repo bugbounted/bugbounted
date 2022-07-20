@@ -13,4 +13,4 @@
 ## 🔧 Technologies & Tools
 
 
-<img height="200px" alt="suconghou's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suconghou&hide_border=true&hide=html" /><img height="200px" alt="suconghou's Github Stats" src="https://github-readme-stats.vercel.app/api?username=suconghou&show_icons=true&hide_border=true&count_private=true" />
+<img height="200px" alt="suconghou's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugbounted2022&hide_border=true&hide=html" /><img height="200px" alt="suconghou's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bugbounted2022&show_icons=true&hide_border=true&count_private=true" />
