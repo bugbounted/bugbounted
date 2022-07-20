@@ -1,14 +1,14 @@
-### Hi there, I'm suconghou 👋
+### Hi there, I'm Mohamad 👋
 
 
-![](https://komarev.com/ghpvc/?username=suconghou)
+![](https://komarev.com/ghpvc/?username=bugbounted2022)
 
 ## ⚡ I'm a generalist!
 
 - 🌈 Love Coding! Love Creation! 😎
 - 🤔 I'm thinking about how to do something fun. 😁
 - 💬 Talk me about your idea. ✨ 
-- 📫 How to reach me. [blog.suconghou.cn](https://blog.suconghou.cn)
+- 📫 How to reach me. [blog.suconghou.cn](https://takl.ink/bugbounted)
 
 ## 🔧 Technologies & Tools
 
