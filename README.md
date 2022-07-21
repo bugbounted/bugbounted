@@ -1,5 +1,7 @@
 ![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
-  
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/bugbounted2022/bugbounted2022/master/final2.gif">
+
 ### Hi there, I'm Mohamad 👋
 
 ## ⚡ I'm a generalist!
@@ -102,8 +104,8 @@
 
 ## 🔧 Technologies & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bugbounted2022&show_icons=true&locale=en&theme=tokyonight" alt="bugbounted2022" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bugbounted2022&theme=tokyonight" alt="bugbounted2022" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=bugbounted2022&show_icons=true&locale=en&theme=tokyonight" width="400" alt="bugbounted2022" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bugbounted2022&theme=tokyonight" width="400" alt="bugbounted2022" /></p>
 
 
 
