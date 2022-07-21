@@ -14,7 +14,6 @@
 
 ## 🔧 Technologies & Tools
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bugbounted2022&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="bugbounted2022" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bugbounted2022&show_icons=true&locale=en&theme=tokyonight" alt="bugbounted2022" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bugbounted2022&theme=tokyonight" alt="bugbounted2022" /></p>
 
