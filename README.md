@@ -102,8 +102,8 @@
 
 ## 🔧 Technologies & Tools
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=bugbounted2022&show_icons=true&locale=en&theme=tokyonight" width="450" alt="bugbounted2022" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bugbounted2022&theme=tokyonight" width="450" alt="bugbounted2022" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=bugbounted2022&show_icons=true&locale=en&theme=tokyonight" width="420" alt="bugbounted2022" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bugbounted2022&theme=tokyonight" width="420" alt="bugbounted2022" /></p>
 
 
 
