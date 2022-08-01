@@ -39,3 +39,7 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+          - name: Metrics embed
+  uses: bugbounted2022/metrics@v3.26
+
