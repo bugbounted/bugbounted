@@ -1,7 +1,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bugbounted2022&theme=radical&no-frame=false&no-bg=true&margin-w=40&row=1&column=7)
 
-[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/achievements.svg">](#)
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/bugbounted2022/bugbounted2022/master/final2.gif">
 
 ### Hi there, I'm Mohamad 👋
 
@@ -107,3 +107,15 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=bugbounted2022&show_icons=true&locale=en&theme=tokyonight" width="260" alt="bugbounted2022" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bugbounted2022&theme=tokyonight" width="260" alt="bugbounted2022" /></p>
 <p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="260" alt="bugbounted2022" /></p>
+
+[<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/bugbounted2022/bugbounted2022/master/general.svg">](#)
+
+[<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/bugbounted2022/bugbounted2022/master/achievements.svg">](#)
+
+<img width="100%" height="30" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg"> 
+
+<!-- Until that day: https://user-images.githubusercontent.com/22963968/159836902-a7553777-f1e2-49ed-90fc-9721322b3f44.png -->
+<!-- The betrayer: https://user-images.githubusercontent.com/22963968/155458995-e4c24fff-d667-48cd-a1ce-1f66cd233a14.png -->
+<!-- The world ender: https://user-images.githubusercontent.com/22963968/130322172-4e4996cd-eb3d-4013-9fc2-47e573413310.png -->
+<!-- Farewell Miura: https://user-images.githubusercontent.com/22963968/119890439-1ff29f00-bf38-11eb-8515-d0a9c3c8a6b6.png -->
+<!-- First steps with JavaScript: https://user-images.githubusercontent.com/22963968/114021347-e3c48b80-9870-11eb-8bc8-998bf39b4d0d.png -->
