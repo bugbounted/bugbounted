@@ -1,3 +1,6 @@
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bugbounted2022&theme=radical&no-frame=false&no-bg=true&margin-w=40&row=1&column=7)
+
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/bugbounted2022/bugbounted2022/master/final2.gif">
 
 ### Hi there, I'm Mohamad 👋
@@ -99,12 +102,9 @@
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![image](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
-
 ## 🔧 Technologies & Tools
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=bugbounted2022&show_icons=true&locale=en&theme=tokyonight" width="400" alt="bugbounted2022" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bugbounted2022&theme=tokyonight" width="400" alt="bugbounted2022" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=bugbounted2022&show_icons=true&locale=en&theme=tokyonight" width="320" alt="bugbounted2022" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bugbounted2022&theme=tokyonight" width="320" alt="bugbounted2022" /></p>
 
-
-
-
+<p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="320" alt="bugbounted2022" /></p>
