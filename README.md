@@ -5,7 +5,7 @@
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/5b8122036a8d4a8dad6092666e855e46.png?r=k5j"
+      src="https://raw.githubusercontent.com/bugbounted2022/bugbounted2022/master/devcard.svg"
     />
   </a>
 
