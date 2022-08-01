@@ -1,7 +1,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bugbounted2022&theme=radical&no-frame=false&no-bg=true&margin-w=40&row=1&column=7)
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/bugbounted2022/bugbounted2022/master/final2.gif">
+[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/achievements.svg">](#)
 
 ### Hi there, I'm Mohamad 👋
 
