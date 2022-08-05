@@ -120,7 +120,8 @@
 
 <img width="100%" height="30" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg"> 
 
-<iframe width="100%" height="475" src="https://bugbounted2022.github.io/certs/#1" frameborder="0"></iframe>
+   <a id="iframeLink" href="https://bugbounted2022.github.io/certs/#1">Visible link text</a></p>
+   <div id="iframeDiv"></div>
 
 <!-- Until that day: https://user-images.githubusercontent.com/22963968/159836902-a7553777-f1e2-49ed-90fc-9721322b3f44.png -->
 <!-- The betrayer: https://user-images.githubusercontent.com/22963968/155458995-e4c24fff-d667-48cd-a1ce-1f66cd233a14.png -->
