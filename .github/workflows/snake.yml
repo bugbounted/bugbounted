@@ -42,7 +42,7 @@ jobs:
           
       - name: 🦑 Medias
         if: ${{ success() || failure() }}
-        uses: bugbounted2022/metrics@latest
+        uses: bugbounted/metrics@latest
         with:
           filename: medias.svg
           token: ${{ secrets.TOKEN }}
@@ -61,7 +61,7 @@ jobs:
 
       - name: 🦑 Achievements
         if: ${{ success() || failure() }}
-        uses: bugbounted2022/metrics@latest
+        uses: bugbounted/metrics@latest
         with:
           filename: achievements.svg
           token: ${{ secrets.TOKEN }}
@@ -74,7 +74,7 @@ jobs:
 
       - name: 🦑 Sponsors
         if: ${{ success() || failure() }}
-        uses: bugbounted2022/metrics@latest
+        uses: bugbounted/metrics@latest
         with:
           filename: sponsors.svg
           token: ${{ secrets.TOKEN }}
@@ -86,7 +86,7 @@ jobs:
 
       - name: 🦑 General
         if: ${{ success() || failure() }}
-        uses: bugbounted2022/metrics@latest
+        uses: bugbounted/metrics@latest
         with:
           filename: general.svg
           token: ${{ secrets.TOKEN }}
