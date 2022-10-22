@@ -1,11 +1,11 @@
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bugbounted2022&theme=radical&no-frame=false&no-bg=true&margin-w=40&row=1&column=7)
+![](https://github-profile-trophy.vercel.app/?username=bugbounted&theme=radical&no-frame=false&no-bg=true&margin-w=40&row=1&column=7)
 
   <a href="https://app.daily.dev/bugbounted2022" target="_blank">
     <img
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/bugbounted2022/bugbounted2022/master/devcard.svg"
+      src="https://raw.githubusercontent.com/bugbounted/bugbounted/master/devcard.svg"
     />
   </a>
 
@@ -73,7 +73,7 @@
       </div>    </div>
   </div>
 
-![snake gif](https://github.com/bugbounted2022/bugbounted2022/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/bugbounted/bugbounted/blob/output/github-contribution-grid-snake-dark.svg)
 
 ![image](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 ![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -110,13 +110,13 @@
 
 ## 🔧 Technologies & Tools
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=bugbounted2022&show_icons=true&locale=en&theme=tokyonight" width="260" alt="bugbounted2022" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bugbounted2022&theme=tokyonight" width="260" alt="bugbounted2022" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=bugbounted&show_icons=true&locale=en&theme=tokyonight" width="260" alt="bugbounted2022" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bugbounted&theme=tokyonight" width="260" alt="bugbounted2022" /></p>
 <p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="260" alt="bugbounted2022" /></p>
 
-[<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/bugbounted2022/bugbounted2022/master/general.svg">](#)
+[<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/bugbounted/bugbounted/master/general.svg">](#)
 
-[<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/bugbounted2022/bugbounted2022/master/achievements.svg">](#)
+[<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/bugbounted/bugbounted/master/achievements.svg">](#)
 
 <img width="100%" height="30" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg"> 
 
