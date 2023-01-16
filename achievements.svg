@@ -67,7 +67,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="346.58000000000004 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="366.93666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g fill="none" fill-rule="evenodd">
@@ -85,10 +85,10 @@
                                     <span class="prefix">Master</span>
                                     follower
                                     <div class="value-wrapper">
-                                        <div class="value">4354</div>
+                                        <div class="value">4551</div>
                                     </div>
                                 </div>
-                                <div class="text">Following 4354 users</div>
+                                <div class="text">Following 4551 users</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -289,7 +289,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 679k out of 106m users</span>
+                                    <span class="gh">ranked 680k out of 106m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">16</div>
                                     </div>
@@ -382,7 +382,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.94m out of 368m repositories</span>
+                                    <span class="gh">ranked 2.90m out of 368m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">2</div>
                                     </div>
@@ -459,7 +459,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.02m out of 368m repositories</span>
+                                    <span class="gh">ranked 1.99m out of 368m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">7</div>
                                     </div>
@@ -564,7 +564,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #FD4D32">Your fortune: Excellent Luck</b>
                         </div>
                     </section>
                 </div>
