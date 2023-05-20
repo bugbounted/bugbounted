@@ -145,7 +145,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="7.595000000000001 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="23.947499999999998 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g fill="none" fill-rule="evenodd">
@@ -163,10 +163,10 @@
                                     <span class="prefix">Super</span>
                                     follower
                                     <div class="value-wrapper">
-                                        <div class="value">598</div>
+                                        <div class="value">809</div>
                                     </div>
                                 </div>
-                                <div class="text">Following 598 users</div>
+                                <div class="text">Following 809 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -421,7 +421,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.37m out of 402m repositories</span>
+                                    <span class="gh">ranked 2.43m out of 402m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">3</div>
                                     </div>
