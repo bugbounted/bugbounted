@@ -120,8 +120,6 @@
 
 [<img align="right" width="390" src="https://raw.githubusercontent.com/bugbounted/-temp-/e27a7e5a30ab660dcec199e210aa8fa6d52564b4/2024-02-14_175910.png">](https://tryhackme.com/r/p/BugBounTED)
 
-<script align="right"  src="https://tryhackme.com/badge/2355868"></script>
-
 <img width="100%" height="30" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg"> 
 
 <!-- Until that day: https://user-images.githubusercontent.com/22963968/159836902-a7553777-f1e2-49ed-90fc-9721322b3f44.png -->
