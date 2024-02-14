@@ -118,6 +118,8 @@
 
 [<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/bugbounted/bugbounted/master/achievements.svg">](#)
 
+[<img align="right" width="390" src="https://raw.githubusercontent.com/bugbounted/-temp-/e27a7e5a30ab660dcec199e210aa8fa6d52564b4/2024-02-14_175910.png">](https://tryhackme.com/r/p/BugBounTED)
+
 <script align="right"  src="https://tryhackme.com/badge/2355868"></script>
 
 <img width="100%" height="30" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg"> 
