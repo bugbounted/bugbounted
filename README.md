@@ -11,6 +11,8 @@
 
 ### Hi there, I'm Mohamad 👋
 
+[![committers.top badge](https://user-badge.committers.top/iran/bugbounted.svg)](https://user-badge.committers.top/iran/bugbounted)
+
 ## ⚡ I'm a generalist!
 
 - 🌈 Love Coding! Love Creation! 😎
