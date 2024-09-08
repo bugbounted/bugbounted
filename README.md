@@ -11,8 +11,6 @@
 
 ### Hi there, I'm Mohamad 👋
 
-[![committers.top badge](https://user-badge.committers.top/iran/bugbounted.svg)](https://user-badge.committers.top/iran/bugbounted)
-
 ## ⚡ I'm a generalist!
 
 - 🌈 Love Coding! Love Creation! 😎
@@ -109,6 +107,7 @@
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![image](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+[![committers.top badge](https://user-badge.committers.top/iran/bugbounted.svg)](https://user-badge.committers.top/iran/bugbounted)
 
 ## 🔧 Technologies & Tools
 
