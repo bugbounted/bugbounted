@@ -111,9 +111,9 @@
 
 ## 🔧 Technologies & Tools
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=bugbounted&show_icons=true&locale=en&theme=tokyonight" width="260" alt="bugbounted" /></p>
+<p><img align="left" src="https://bugbounted-readme-stats-two-kappa-mamaliama.vercel.app/api?username=bugbounted&show_icons=true&locale=en&theme=tokyonight" width="260" alt="bugbounted" /></p>
 <p><img align="right" src="https://bugbounted-readme-streak-stats.vercel.app/?user=bugbounted&theme=tokyonight&hide_border=true" width="260" alt="bugbounted" /></p>
-<p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="260" alt="bugbounted" /></p>
+<p><img align="center" src="https://github-readme-quotes-rouge.vercel.app/api?type=horizontal&theme=tokyonight" width="260" alt="bugbounted" /></p>
 
 [<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/bugbounted/bugbounted/master/general.svg">](#)
 
