@@ -112,7 +112,7 @@
 ## 🔧 Technologies & Tools
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=bugbounted&show_icons=true&locale=en&theme=tokyonight" width="260" alt="bugbounted" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bugbounted&theme=tokyonight" width="260" alt="bugbounted" /></p>
+<p><img align="right" src="https://streak-stats.demolab.com/?user=bugbounted&theme=tokyonight&hide_border=true" width="260" alt="bugbounted" /></p>
 <p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="260" alt="bugbounted" /></p>
 
 [<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/bugbounted/bugbounted/master/general.svg">](#)
